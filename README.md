@@ -12,7 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-#위에꺼 없으면 허전할까봐 만들어놈
+# 위에꺼 없으면 허전할까봐 만들어놈
 
 솔까 없으면 허전하자너 ㅋㅋ
 아님말고요
